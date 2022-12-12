@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-13579 브랜치로 가져옴  다시 수정해서 올림
+13579
 </body>
 </html>
